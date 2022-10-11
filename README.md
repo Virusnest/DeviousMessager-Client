@@ -1,2 +1,4 @@
 # DeviousMessager-Client
-DeviousMessager-Client is a chat app with encription
+DeviousMessager is a chat app with encription
+
+## THIS IS A SCHOOL PROJECT 
